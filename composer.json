@@ -25,7 +25,7 @@
         "haydenpierce/class-finder": "^0.4",
         "laravel/tinker": "^2",
         "mockery/mockery": "^1",
-        "nunomaduro/collision": "^4",
+        "nunomaduro/collision": "^5",
         "nunomaduro/larastan": "^0.6",
         "phpunit/phpunit": "^9"
     },
